@@ -1,1 +1,5 @@
+you can see in the file: correlation_plot.png that the attached graph has no correletion between the amount of alcohol in the 
+different whines that were tested and the amount of malic acid in the compoundes. 
+
+
 
