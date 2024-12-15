@@ -1,5 +1,8 @@
-you can see in the file: correlation_plot.png that the attached graph has no correletion between the amount of alcohol in the 
-different whines that were tested and the amount of malic acid in the compoundes. 
 
+The graph in correlation_plot.png shows no connection between the amount of alcohol in the wines and the amount of malic acid in them. This means these two things don’t seem to affect each other.
 
+But in correlation_plot(1)23.png, there’s a clear pattern between the amount of alcohol and the class of the samples. we can see:
 
+Wines in Class 1 usually have more alcohol than the other classes.
+Wines in Class 2 have the least alcohol compared to the other classes.
+This means the amount of alcohol might help tell the classes apart.
